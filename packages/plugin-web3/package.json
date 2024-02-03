@@ -5,7 +5,7 @@
 	"license": "MIT",
 	"dependencies": {
 		"@scatterjs/core": "^2.7.27",
-		"web3-provider-engine": "^14.1.0"
+		"web3-provider-engine": "^16.0.1"
 	},
 	"gitHead": "dadb46787c05b190765b3a112b85d9d26c451c08",
 	"publishConfig": {
